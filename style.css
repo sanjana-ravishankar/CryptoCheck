@@ -60,8 +60,8 @@ nav .btn{
     background: white;
     color: black;
     text-decoration: none;
-    padding: 10px 15px;
-    border-radius: 15px;
+  /*  padding: 10px 15px;
+    border-radius: 15px; */
 }
 
 .content{
