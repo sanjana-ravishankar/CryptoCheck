@@ -115,9 +115,9 @@ nav .btn{
     font-size: 14px;
     margin: 0 15px;
     color:#f9dbbefe;
-    border: 1px solid rgba(0, 3, 5, 0.91);
+ /* border: 1px solid rgba(0, 3, 5, 0.91); */
     padding: 20px 30px;
-    border-radius: 8px;
+ /*   border-radius: 8px; */
 
 }
 
